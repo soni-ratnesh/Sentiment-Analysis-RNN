@@ -1,2 +1,16 @@
 # Sentiment-Analysis-RNN
-Implementing a recurrent neural network (RNN) that performs sentiment analysis.
+## Introduction
+
+## Base Info
+
+## Requirements
+
+## Installation
+
+## Architecture
+
+## Result
+
+## Usage
+
+## Contribution
