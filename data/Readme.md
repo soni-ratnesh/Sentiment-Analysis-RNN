@@ -1,7 +1,10 @@
 # Data
 ## Introduction
-Contains dictionary files. used to convert word to integer values.
-
-## Base Info
-    int_vocab.npy -> dictionary takes integer as keys and return associated word
-    vocab_int.npy -> dictionary takes word as keys and return associated integer
+Contains files that are used and generated during data pre-processing.
+## Base-Info
+    reviews      -> Containing intial reviews 
+    labels       -> Containing labels of reviews (POSITIVE/NEGATIVE)
+    cleaned_data -> data after data cleaning and processing
+    train        -> data used for training
+    val          -> data used for validation
+    test         -> data used for testing model
